@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14778" started-at="2021-12-23T22:03:38 IST" finished-at="2021-12-23T22:03:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14778" started-at="2021-12-23T22:03:38 IST" finished-at="2021-12-23T22:03:53 IST">
+      <class name="com.org.tests.DynamicWebTable">
+        <test-method status="PASS" signature="DWT()[pri:0, instance:com.org.tests.DynamicWebTable@4d3167f4]" name="DWT" duration-ms="14708" started-at="2021-12-23T22:03:38 IST" finished-at="2021-12-23T22:03:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DWT -->
+      </class> <!-- com.org.tests.DynamicWebTable -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
